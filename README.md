@@ -66,6 +66,7 @@ review      →  AI flags edge cases. I decide what matters.
 
 <div align="center">
 
-*"Gracias, hermano, por hacer de tus sueños los motores de los míos."*
+*"gracias hermano por hacer de tus sueños, 
+de mis sueños motores"*
 
 </div>
