@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jairo Ariza
+# RZI
 
 `Full Stack Developer` · `Product-Minded` · `Bucaramanga, Colombia`
 
